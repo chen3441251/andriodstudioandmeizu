@@ -1,0 +1,2 @@
+# andriodstudioandmeizu
+修复魅族与模拟器无法共存androidstudio问题
